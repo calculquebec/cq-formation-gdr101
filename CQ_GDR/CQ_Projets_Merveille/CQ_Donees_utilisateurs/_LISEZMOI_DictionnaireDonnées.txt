@@ -1,0 +1,33 @@
+Le fichier README_DictionnaireDonnées a été généré 2019-01-01 par Unepersonne Importante
+
+DICTIONNAIRE DE DONNÉES 
+
+INFORMATION SPÉCIFIQUES POUR: CQ_Donees_utilisateurs et ses répertoires/Fichiers
+
+Nombre de colonnes: 11
+
+Nombre de lignes :3839
+Les lignes correspondent à des utilisateurs
+
+Nom des colonnee et descriptions:
+
+role owner family name:		Nom de l'utilisateur
+role owner given name:		Prénom de l'utilisateur
+PI family name:	        	Nom de l'investigateur principal
+PI given name:	        	Prénom de l'investigateur principal
+role_id:     	        	Identifiant de l'utilisateur
+pi_people_t.id:	        	Identifiant de l'investigateur principal
+home_in.id:	        	Institut ou université de provenance de l'utilisateur
+ra_rap.research_area_id:        Domaine de recherche de l'utilisateur
+submitter_role_t.position_id:	Rôle de l'utilisateur
+cpu_time_run (CPU days):	Utilisation des CPU 
+
+
+Codes de données manquantes : Aucune
+
+Formats spécialisés ou autres abréviations utilisées :
+
+CQ: Calcul Québec
+CB: Caroline Baril
+MB: Maxime Boissonneault
+ST: Suzanne Talon
