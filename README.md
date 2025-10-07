@@ -2,17 +2,17 @@
 
 
 
-Contenu du cours gestion des données sensibles \[GDR101] du 16 octobre 2025 donné par Caroline Baril.
+Contenu du cours ***Gestion des données sensibles \[GDR101]*** du 16 octobre 2025 donné par Caroline Baril.
 
 
 
-##### **Diapositives:**
+#### **Diapositives:**
 
 
 
 
 
-##### **Plan du cours:**
+#### **Plan du cours:**
 
 
 

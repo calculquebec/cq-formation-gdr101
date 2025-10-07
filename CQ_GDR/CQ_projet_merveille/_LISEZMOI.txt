@@ -11,7 +11,7 @@ Institution: Calcul Québec
 Address: 
 Email: unepersonne.importante@calculquebec.ca
 
-Date de la collecte de données:  2015-01-01 - présent
+Date de la collecte de données:  2015-01-01 - 2015-01-01
 
 Position géographique de la collecte de données: Montréal, Québec, Canada
 
@@ -32,7 +32,8 @@ Est-ce que les données dérivent d'une autre source? Non
 Si oui, lister les sources:
 
 
-INFORMATION SPÉCIFIQUES POUR: CQ_Donees_utilisateurs et ses répertoires/Fichiers
+Arborescence du répertoire
+CQ_Donees_utilisateurs 
 
 Liste des fichiers/Répertoires : 
 
@@ -44,22 +45,22 @@ Liste des fichiers/Répertoires :
 
 	-><CQ_Donnees_Utilisateurs_2020> : utilisateurs CQ de l'année 2020
 
-		-><CQ_Donnes_Analysees_2020> :Fichiers de données 2020 qui ont subit une analyse
+		-><CQ_Donnes_Analysees_2020> :Fichiers de données 2020 qui ont subit une 		   analyse
 			->CQ_Données-Analysees_2020_CB_V01*
-			->CQ_Données-Analysees_2020_CB_V02
-			->CQ_Données-Analysees_2020_CB_V03
-			->CQ_Données-Analysees_2020_CB_V04
-			->CQ_Données-Analysees_2020_MB_V01
-			->CQ_Données-Analysees_2020_ST_V01
-			->CQ_Données-Analysees_2020_ST_V02
+			->CQ_Données-Analysees_2020_CB_V02*
+			->CQ_Données-Analysees_2020_CB_V03*
+			->CQ_Données-Analysees_2020_CB_V04*
+			->CQ_Données-Analysees_2020_MB_V01*
+			->CQ_Données-Analysees_2020_ST_V01*
+			->CQ_Données-Analysees_2020_ST_V02*
 
 		-><CQ_Donnes-Brutes_2020> : Fichiers de données 2020 originaux
 			->CQ_Données-Brutes_2020*
 
 		-><CQ_Donnes-Finales_2020> : Fichiers de données 2020 qui ont subit une analyse et qui sont finaux
-			->CQ_Données-Finales_2020_CB_FINAL
-			->CQ_Données-Finales_2020_MB_FINAL
-			->CQ_Données-Finales_2020_ST_FINAL
+			->CQ_Données-Finales_2020_CB_FINAL*
+			->CQ_Données-Finales_2020_MB_FINAL*
+			->CQ_Données-Finales_2020_ST_FINAL*
 
 	-><CQ_Donnees_Utilisateurs_2021>: utilisateurs CQ de l'année 2021
 	-><CQ_Donnees_Utilisateurs_2022> : utilisateurs CQ de l'année 2022
