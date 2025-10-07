@@ -1,4 +1,4 @@
-Le fichier README_DictionnaireDonnées a été généré 2019-01-01 par Unepersonne Importante
+Le fichier README_DictionnaireDonnees a été généré 2019-01-01 par Unepersonne Importante
 
 DICTIONNAIRE DE DONNÉES 
 
@@ -9,7 +9,7 @@ Nombre de colonnes: 11
 Nombre de lignes :3839
 Les lignes correspondent à des utilisateurs
 
-Nom des colonnee et descriptions:
+Nom des colonnes et descriptions:
 
 role owner family name:		Nom de l'utilisateur
 role owner given name:		Prénom de l'utilisateur
