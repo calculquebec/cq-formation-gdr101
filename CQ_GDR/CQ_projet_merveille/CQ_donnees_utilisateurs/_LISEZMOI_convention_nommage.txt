@@ -1,31 +1,30 @@
-Ce fichier README_Nommage a été généré 2019-01-01 par Unepersonne Importante
+Ce fichier README_convention_nommage a été généré 2019-01-01 par Unepersonne Importante
 
-CONVENTION DE NOMMAGE 
+CONVENTION DE NOMMAGE
 
 Pour le dossier Merveille
 
 ORDRE DES MÉTADONNÉES OU CHAMPS
 
-Pour le nommage des fichiers: {CQ}_{Action}_{Annees}_{Auteur}_{Version}
+Pour le nommage des fichiers: {CQ}_{Action}_{Années}_{Auteur}_{Version}
 Action: Ce qui a été fait sur les données
 
 Utiliser le format ISO8601 (YYYYMMDD or YYYY-MM-DD) pour les date.
 
-Le _ sera utlilisé pour séparer les champs et le - sera utilisé à l'intérieur d'un champs.
+Le _ sera utilisé pour séparer les champs et le - sera utilisé à l'intérieur d'un champs.
 
 Les caractères spéciaux ne sont pas permis.
 
 ABBRÉVIATIONS
 
 CQ: Calcul Québec
+CB: Caroline Baril
+MB: Maxime Boissonneault
+ST: Suzanne Talon
+
 
 VERSIONNAGE
 
 V01 à V10
 
- 
-
-
-
-
-
+ 
